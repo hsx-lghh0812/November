@@ -1,0 +1,18 @@
+{
+  "development": {
+    "database": "january",
+    "username": "root",
+    "password": "123456",
+    "host": "127.0.0.1",
+    "port": "3306",
+    "dialect": "mysql"
+  },
+  "ubuntu": {
+    "database": "january",
+    "username": "root",
+    "password": "aliyun_yltfy",
+    "host": "106.14.136.160",
+    "port": "3306",
+    "dialect": "mysql"
+  }
+}
